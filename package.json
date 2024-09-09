@@ -1,0 +1,11 @@
+{
+  "name": "@elk-zone/elk",
+  "type": "module",
+  "version": "0.14.1",
+  "scripts": {
+  "release": "bumpp"
+},
+  "dependencies": {
+    "bumpp": "^9.5.2"
+  }
+}
